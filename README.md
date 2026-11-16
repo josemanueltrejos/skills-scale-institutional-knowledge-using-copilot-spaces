@@ -1,38 +1,37 @@
-# Scale institutional knowledge using Copilot Spaces
+<div align="center">
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+# 🎉 Congratulations josemanueltrejos! 🎉
 
-Hey josemanueltrejos!
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+### 🌟 You've successfully completed the exercise! 🌟
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## 🚀 Share Your Success!
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/josemanueltrejos/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
+**Show off your new skills and inspire others!**
 
----
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Scale%20institutional%20knowledge%20using%20Copilot%20Spaces%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fjosemanueltrejos%2Fskills-scale-institutional-knowledge-using-copilot-spaces%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Scale%20institutional%20knowledge%20using%20Copilot%20Spaces%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fjosemanueltrejos%2Fskills-scale-institutional-knowledge-using-copilot-spaces%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Scale%20institutional%20knowledge%20using%20Copilot%20Spaces%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fjosemanueltrejos%2Fskills-scale-institutional-knowledge-using-copilot-spaces%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-# OctoAcme Project Management Docs
+### 🎯 What's Next?
 
-OctoAcme manages cross-functional projects through an iterative lifecycle: **initiation, planning, execution, release, and closeout/retrospective**. Initiation validates the business need, measurable outcomes, stakeholders, initial timeline, risks, resources, and whether the work should proceed. Planning turns approved work into a prioritized backlog with acceptance criteria, estimates, a Definition of Done, milestones, dependencies, and a test approach.
+**Keep the momentum going!**
 
-During execution, teams deliver small increments and track work on a project board, from Backlog and Ready through In Progress, In Review, QA, and Done. Project Managers coordinate schedules, risks, dependencies, and communications; Product Managers/Product Leads define outcomes, prioritize the backlog, and measure success. Developers implement and test the work, QA validates quality and acceptance criteria, and stakeholders provide input and approvals.
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/josemanueltrejos/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
-Communication relies on regular team coordination, a shared source of truth, and timely escalation. The process includes delivery standups, weekly delivery and PM–Product syncs, monthly stakeholder updates, and demos or reviews at sprint or milestone ends. Teams report progress, next steps, risks, blockers, and decisions needed; risks and dependencies are reviewed regularly and escalated from the team through the PM and Product Lead to the sponsor when appropriate.
+*There's no better way to learn than building things!* 🚀
 
-Quality assurance is integrated throughout delivery: small pull requests where possible, issue links and acceptance criteria, automated tests and linting, review approval, unit and applicable integration tests, security scanning, and manual QA when needed. Before release, teams confirm acceptance criteria and CI/security checks, prepare release notes and rollback plans, test in staging, and verify production deployment. Retrospectives after sprints, releases, milestones, or incidents capture lessons and track a small set of owned improvement actions.
-
-## Process documents
-
-- [Project Management Overview](docs/octoacme-project-management-overview.md) — principles, roles, key artifacts, lifecycle, and communication cadence.
-- [Project Initiation Guide](docs/octoacme-project-initiation.md) — validating and authorizing work, aligning stakeholders, and preparing the one-pager and initial plan.
-- [Project Planning](docs/octoacme-project-planning.md) — shaping scope, backlog, estimates, Definition of Done, milestones, risks, and dependencies.
-- [Execution & Tracking](docs/octoacme-execution-and-tracking.md) — team rhythms, board and PR workflows, quality practices, reporting, and blocker escalation.
-- [Risk Management & Communication](docs/octoacme-risks-and-communication.md) — risk lifecycle, stakeholder updates, communication templates, and escalation paths.
-- [Release & Deployment Guide](docs/octoacme-release-and-deployment.md) — pre-release requirements, deployment checks, rollback, incident response, and release notes.
-- [Retrospective & Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md) — running retrospectives and turning lessons into tracked action items.
-- [Roles & Personas](docs/octoacme-roles-and-personas.md) — responsibilities, goals, and communication patterns for developers, product managers, and project managers.
+</div>
 
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
